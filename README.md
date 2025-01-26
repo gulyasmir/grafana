@@ -2,9 +2,7 @@
 
 Скачайте репозиторий командой `git clone https://github.com/gulyasmir/grafana.git`
 
-### 
-
-Развёртывание Prometheus
+### Развёртывание Prometheus
 
 Запустить командой
 `docker-compose up -d`
