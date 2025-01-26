@@ -18,7 +18,7 @@
 
 ### Grafana
 
-**.**Откройте [\`](http://localhost:3000/)[http://localhost:3000](http://localhost:3000/) admin/admin\`.
+Откройте [\`](http://localhost:3000/)[http://localhost:3000](http://localhost:3000/) admin/admin\`.
 
 Добавьте Prometheus: Connections→ Add new connection → «Prometheus» в строке поиска.
 
