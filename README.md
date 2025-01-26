@@ -1,5 +1,7 @@
 # Инструкция по развертыванию Prometheus и Grafana
 
+Скачайте репозиторий командой https://github.com/gulyasmir/grafana.git
+
 ### 
 
 Развёртывание Prometheus
