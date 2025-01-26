@@ -1,6 +1,6 @@
 # Инструкция по развертыванию Prometheus и Grafana
 
-Скачайте репозиторий командой git clone https://github.com/gulyasmir/grafana.git
+Скачайте репозиторий командой `git clone https://github.com/gulyasmir/grafana.git`
 
 ### 
 
